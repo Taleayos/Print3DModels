@@ -1,5 +1,5 @@
 # Print3DModels
-This is a program to visualise the 3D wireframe models.
+This is a program realised on C++ language to visualise the 3D wireframe models.
 
 The program is built with Makefile which contains standard set of targets for GNU-programs: all, install, uninstall, clean, dvi, dist, tests.
 
